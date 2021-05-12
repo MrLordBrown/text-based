@@ -35,7 +35,6 @@ function update() {
     head.appendChild(response);
     head.appendChild(text);
   for (var i in count) {
-  var = postData
     var idez = document.createAttribute('id');
     var classer  = document.createAttribute('class');
     var sty = document.createAttribute('style');
